@@ -1,1 +1,1 @@
-select 42 as answer;
+select 42 as ans;
