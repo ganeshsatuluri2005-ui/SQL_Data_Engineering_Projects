@@ -1,6 +1,6 @@
 select
     job_id,
-    job_title_short,
+    job_title,
     name as company_name,
     job_location
 from
